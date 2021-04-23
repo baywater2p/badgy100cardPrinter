@@ -1,2 +1,2 @@
 # badgy100cardPrinter
-an RFID Card Printer &amp; scripts for Professional Businesses
+a few scripts for RFID Cards. The Badgy100 Printer is sold separately.
